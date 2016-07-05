@@ -1,0 +1,14 @@
+layout_spectrum: 0.1270543725695461
+typography_spectrum: 0.6874234559945762
+color:
+  brandStrength: 0.009254648815840483
+  lightness: 0.9093972726259381
+  saturation: 0.36393151665106416
+  rhythmicContrast: 0.7659978999290615
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: mjhartdesign
