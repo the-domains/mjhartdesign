@@ -1,16 +1,16 @@
-layout_spectrum: 0.1270543725695461
-typography_spectrum: 0.6874234559945762
+layout_spectrum: 0.6922997606452554
+typography_spectrum: 0.27500101714394987
 color:
-  brandStrength: 0.009254648815840483
-  lightness: 0.9093972726259381
-  saturation: 0.36393151665106416
-  rhythmicContrast: 0.7659978999290615
+  brandStrength: 0.33041764865629375
+  lightness: 0.436802796786651
+  saturation: 0.5605763026978821
+  rhythmicContrast: 0.05544451158493757
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: mjhartdesign
 author:
   name: Mathew Hart
